@@ -19,8 +19,4 @@
 - [error] 중점 확인
 
 5. 코드를 수정한다. 
-- 스프링 부트
-이클립스 코드 수정 후 git bash로 배포
-1. git add.
-2. git commit -m "커밋내용"
-3. git push origin main 
+각 환경에서 수정 후 배포
