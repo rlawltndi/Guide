@@ -22,7 +22,8 @@
 각 환경에서 수정 후 배포
 
 이클립스 코드 수정 후 git bash로 배포
-1. git add.
-2. git commit -m "커밋내용"
-3. git push origin main 
+1. 프로젝트 위치에서 git bash
+2. git add.
+3. git commit -m "커밋내용"
+4. git push origin main 
 
