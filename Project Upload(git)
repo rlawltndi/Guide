@@ -7,4 +7,4 @@
 5. git branch -M main (브랜치 이름을 main으로 설정)
 6. git remote add origin 깃허브 repository 주소 (깃허브의 저장소와 연결)
 7. git push origin main (로컬의 변경사항을 github에 push)
----------------------------------------------------------------------------------------------
+
