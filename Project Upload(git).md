@@ -1,4 +1,4 @@
-###github에 git으로 project 올리기
+### github에 git으로 project 올리기
 
 1. 업로드 할 프로젝트에서 git bash 열기
 2. git init ("해당 폴더를 깃으로 관리하겟다" 라고 지정)
