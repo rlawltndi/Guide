@@ -1,10 +1,10 @@
 #### AWS 배포
 
 1. 배포하기 위한 프로그램을 만든다.
-2. 프로그램을 build 한다.
-2-1. 스프링부트의 경우 powershell로 gradlew가 있는 폴더로 경로를 잡고 ./gradlew build를 한다.  
-     build/libs 폴더 안에 .jar 생성된다.
-2-2. 리액트의 경우 npm run build를 한다.(설정파일과 묶어서 압축, 압축시 zip으로 한다. 반디집x)
+2. 프로그램을 build 한다.  
+2-1. 스프링부트의 경우 powershell로 gradlew가 있는 폴더로 경로를 잡고 ./gradlew build를 한다.   
+     build/libs 폴더 안에 .jar 생성된다.  
+2-2. 리액트의 경우 npm run build를 한다.(설정파일과 묶어서 압축, 압축시 zip으로 한다. 반디집x)  
 3. ed 환경을 만든다 (AWS)
 - Elastic Beanstalk : 플랫폼을 구성해주기 때문에 배포할 파일만 업로드하면 된다.
 - EC2(Elastic Computer Cloud) : 컴퓨터 직접 업로드 가능
